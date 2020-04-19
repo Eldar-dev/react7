@@ -1,0 +1,39 @@
+.item-details {
+  display: flex;
+  flex-direction: row;
+  padding: 1rem;
+  border: 1px solid #444;
+  margin-bottom: 40px;
+  padding-bottom: 0;
+}
+
+.item-details .item-image {
+  width: 30%;
+  height: 30%;
+  border-radius: 10px;
+}
+
+.item-details .list-group-item {
+  padding: 0.25rem;
+}
+
+.item-details .list-group-item .term {
+  margin-right: 0.5rem;
+}
+
+.select-item {
+  padding: 49px;
+  text-align: center;
+  font-size: 28px;
+  border: 1px solid #444;
+}
+
+.block-btn {
+  padding-top: 15px;
+  padding-left: 170px;
+  list-style: none;
+}
+
+.item-details .card-body {
+  padding-bottom: 0;
+}

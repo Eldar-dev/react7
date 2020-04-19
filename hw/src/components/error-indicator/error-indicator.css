@@ -1,0 +1,14 @@
+.error-message {
+  width: 100%;
+  text-align: center;
+  color: rgb(204, 119, 40);
+}
+
+.error-message h1 {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.error-message p {
+  font-size: 18px;
+}
